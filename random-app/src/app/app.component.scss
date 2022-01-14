@@ -1,0 +1,22 @@
+header {
+  background-color: #ff7f9e;
+  h1 {
+      font-size: 80px;
+  }
+}
+
+.cursive-font {
+  font-family: "The Nautigal", cursive;
+}
+
+#choc-apple {
+    height: 41vh;
+    background-image: url(../assets/img/choc-apple.jpg);
+    background-size: contain;
+}
+
+#bday-box {
+    height: 41vh;
+    background-image: url(../assets/img/bday-box.jpg);
+    background-size: contain;
+}
